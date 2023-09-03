@@ -15,7 +15,7 @@
 There are six major deliverables to be completed for the integrated project.
 
 These include:
-- Project Landscape
+- Problem Landscape
 - Project Board
 - Jupyter Notebook for EDA and Feature Engineering
 - Business Intelligence Dashboard
@@ -27,14 +27,14 @@ These include:
 
 Files included in this repository include the following:
 
-- `Project_Landscape.pdf`
-- `Project_Board.placeholder` (The project board was constructed and managed using Trello)
+- `Problem_Landscape.pdf`
+- `Project_Board.JPG` (The project board was constructed and managed using Trello)
 - `insurance_claims_raw.xlsx`
 - `Cleaned_Insurance_Data.csv`
 - `Insurance_Claims_Notebook.ipynb`
 - `Advanced_Features_Insurance_Data.csv`
 - `Insurance_Dashboard.pbix`
-- `Insurance_Presentation.pptx`
+- `Insurance_Presentation.pdf`
 
 Files requiring further context and explanation will be discussed below.
 
